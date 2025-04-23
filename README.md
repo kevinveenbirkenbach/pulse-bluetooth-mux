@@ -1,8 +1,8 @@
 # pulse-bluetooth-mux 🎶🌀
 
-> A simple PulseAudio multiplexer for Bluetooth audio streams.
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+> A concise Bash utility to auto‑detect and merge all connected Bluetooth audio sinks into one PulseAudio sink for simultaneous playback on Manjaro GNOME.
 
 ## 📥 Installation
 
